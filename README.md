@@ -3,7 +3,7 @@
 
 ---
 
-🌐 I'm a full-stack developer with a broad technical stack and a passion for learning and trying new things. My work spans across:
+🌐 I'm a Full-Stack Developer with a broad technical stack and a passion for learning and trying new things. My work spans across:
 
 - ✅ **Web Development**: PHP, CodeIgniter, React, Css/HTML/JS, Node.js
 - 📱 **Mobile Development**: Flutter, React Native, Android Studio
