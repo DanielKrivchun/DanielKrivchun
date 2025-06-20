@@ -41,7 +41,10 @@ I'm currently working on [**KegChek**](https://kegchek.com/) — a web and mobil
   <a href="https://www.linkedin.com/in/danielkrivchun/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
   </a>
-</p>
+  <a href="https://x.com/KrivchunDa38073" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="Twitter / X" />
+  </a>
+</p
 
 ---
 
