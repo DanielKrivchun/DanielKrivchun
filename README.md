@@ -3,14 +3,14 @@
 
 ---
 
-🌐 I'm a full-stack developer with a broad technical stack and a passion for building scalable, practical solutions. My work spans across:
+🌐 I'm a full-stack developer with a broad technical stack and a passion for learning and trying new things. My work spans across:
 
 - ✅ **Web Development**: PHP, CodeIgniter, React, Css/HTML/JS, Node.js
 - 📱 **Mobile Development**: Flutter, React Native, Android Studio
 - 🎮 **Game Development**: Unity (C#)
 - ⚙️ **Backend Systems**: Python, Flask, MySQL, MongoDB
 
-I enjoy solving real-world problems, whether it's building a business platform, automating workflows, or launching games.
+I enjoy solving problems, whether it's building a business platform, automating workflows, or launching games.
 
 ---
 
