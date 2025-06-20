@@ -5,12 +5,12 @@
 
 🌐 I'm a full-stack developer with a broad technical stack and a passion for building scalable, practical solutions. My work spans across:
 
-- ✅ **Web Development**: PHP, CodeIgniter, React, Node.js
-- 📱 **Mobile Development**: Flutter, React Native
+- ✅ **Web Development**: PHP, CodeIgniter, React, Css/HTML/JS, Node.js
+- 📱 **Mobile Development**: Flutter, React Native, Android Studio
 - 🎮 **Game Development**: Unity (C#)
 - ⚙️ **Backend Systems**: Python, Flask, MySQL, MongoDB
 
-I enjoy solving real-world problems, whether it's building a business platform, automating workflows, or launching a game.
+I enjoy solving real-world problems, whether it's building a business platform, automating workflows, or launching games.
 
 ---
 
@@ -45,19 +45,11 @@ I'm currently working on [**KegChek**](https://kegchek.com/) — a platform for 
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielkrivchun&show_icons=true&theme=default&hide_title=false&count_private=true" alt="GitHub Stats" />
-</p>
-
----
-
 ### 🌟 Featured Projects
 - [**KegChek**](https://kegchek.com/) – Inventory & logistics for keg management.
-- [**TapChek**](#) – Draft line cleaning management (in development).
-- [**Unity Game Prototype**](#) – Pet care simulation using Beamable for backend.
+- [**Unity Game Prototype (Freedom World)**](#) – Pet care simulation using Beamable for backend. Demo Vids: https://tinyurl.com/Frdmwrlddemo1 | https://tinyurl.com/frdmwrlddemo2
 
 ---
 
-> 💡 *“Code is a story you tell your future self.”*
+> 💡 *“Give a man a program, and he'll be frustrated for a day. Teach a man to program, and he'll be frustrated for a lifetime”*
 
