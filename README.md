@@ -15,7 +15,7 @@ I enjoy solving real-world problems, whether it's building a business platform, 
 ---
 
 ### 🔭 Current Project
-I'm currently working on [**KegChek**](https://kegchek.com/) — a platform for managing keg inventory and logistics.
+I'm currently working on [**KegChek**](https://kegchek.com/) — a web and mobile platform for managing keg inventory and logistics for breweries and restaurants.
 
 ---
 
