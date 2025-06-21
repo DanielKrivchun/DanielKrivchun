@@ -51,7 +51,7 @@ And learning about AI and how to use it for real world benefits
 
 ### 🌟 Featured Projects
 - [**KegChek**](https://kegchek.com/) – Inventory & logistics for keg management on web and mobile.
-- [**Unity Game Prototype (Freedom World)**](#) – Pet care game inspired by tamogachi and chao garden. Demo Vids: https://tinyurl.com/Frdmwrlddemo1 | https://tinyurl.com/frdmwrlddemo2
+- [**Unity Game Prototype (Freedom World)**](#) – Pet care game inspired by tamogachi and chao garden. Demo Vids: https://tinyurl.com/Frdmwrlddemo1 | https://tinyurl.com/Frdmwrlddemo
 
 ---
 
