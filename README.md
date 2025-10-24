@@ -5,10 +5,10 @@
 
 🌐 I'm a Full-Stack Developer with a broad technical stack and a passion for learning and trying new things. My work spans across:
 
-- ✅ **Web Development**: PHP, CodeIgniter, React, Css/HTML/JS, Node.js
-- 📱 **Mobile Development**: Flutter, React Native, Android Studio
+- ✅ **Web Development**: PHP, CodeIgniter, React, Css/HTML/JS
+- 📱 **Mobile Development**: Flutter, React, Android Studio
 - 🎮 **Game Development**: Unity (C#)
-- ⚙️ **Backend Systems**: Python, Flask, MySQL, MongoDB
+- ⚙️ **Backend Systems**: Python, Node.js, Flask, MySQL, MongoDB
 
 I enjoy solving problems, whether it's building a business platform, automating workflows, or launching games.
 
