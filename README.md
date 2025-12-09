@@ -14,9 +14,11 @@ I enjoy solving problems, whether it's building a business platform, automating 
 
 ---
 
-### 🔭 Current Project
+### 🔭 Current Projects
 I'm currently working on [**KegChek**](https://kegchek.com/) — a web and mobile platform for managing keg inventory and logistics for breweries and restaurants. 
 And learning about AI and how to use it for real world benefits
+
+And I am also currently working on building the future of experential AI with [**Oxyde**](https://github.com/Oxyde-Labs)
 
 ---
 
