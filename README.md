@@ -14,7 +14,7 @@ I enjoy solving problems, whether it's building a business platform, automating 
 
 ---
 
-## 🔭 Past Projects
+## 🔭 Current Projects
 Currently working on launching a Marketing and Software development agency called BeerSoft focused on the beer and beverage industry. 
 
 ### 🔭 Recent Projects
