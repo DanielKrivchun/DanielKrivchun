@@ -15,7 +15,8 @@ I enjoy solving problems, whether it's building a business platform, automating 
 ---
 
 ## 🔭 Current Projects
-Currently working on launching a Marketing and Software development agency called BeerSoft focused on the beer and beverage industry. 
+Currently working on launching a Digital Marketing and Software agency named BeerSoft specializing on the beer and beverage industry. 
+https://www.beersoft.ca/
 
 ### 🔭 Recent Projects
 Worked on [**KegChek**](https://kegchek.com/) - a web and mobile platform for managing keg inventory and logistics for breweries and restaurants. 
