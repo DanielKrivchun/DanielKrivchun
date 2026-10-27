@@ -14,11 +14,11 @@ I enjoy solving problems, whether it's building a business platform, automating 
 
 ---
 
-## 🔭 Current Projects
+## Current Projects
 Currently working on launching a Digital Marketing and Software agency named BeerSoft specializing on the beer and beverage industry. 
 https://www.beersoft.ca/
 
-### 🔭 Recent Projects
+### Recent Projects
 Worked on [**KegChek**](https://kegchek.com/) - a web and mobile platform for managing keg inventory and logistics for breweries and restaurants. 
 And I am also currently working on building the future of experential AI with [**Oxyde**](https://github.com/Oxyde-Labs)
 
@@ -53,11 +53,11 @@ And I am also currently working on building the future of experential AI with [*
 
 ---
 
-### 🌟 Featured Projects
+### Featured Projects
 - [**KegChek**](https://kegchek.com/) – Inventory & logistics for keg management on web and mobile.
 - [**Unity Game Prototype (Freedom World)**](#) – Pet care game inspired by tamogachi and chao garden. Demo Vids: https://tinyurl.com/Frdmwrlddemo1 | https://tinyurl.com/Frdmwrlddemo
 
 ---
 
-> 💡 *“Give a man a program, and he'll be frustrated for a day. Teach a man to program, and he'll be frustrated for a lifetime”*
+> *“Give a man a program, and he'll be frustrated for a day. Teach a man to program, and he'll be frustrated for a lifetime”*
 
