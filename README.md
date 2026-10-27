@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Daniel Krivchun</h1>
+<h1 align="center">Hi, I'm Daniel Krivchun</h1>
 <h3 align="center">A Multi-Faceted Full-Stack Developer from Canada 🇨🇦</h3>
 
 ---
 
-🌐 I'm a Full-Stack Developer with a broad technical stack and a passion for learning and trying new things. My work spans across:
+I'm a Full-Stack Developer with a broad technical stack and a passion for learning and trying new things. My work spans across:
 
-- ✅ **Web Development**: PHP, CodeIgniter, React, Next.js, Css/HTML/JS
-- 📱 **Mobile Development**: Flutter, React, Android Studio
-- 🎮 **Game Development**: Unity (C#)
-- ⚙️ **Backend Systems**: Python, Node.js, Flask, MySQL, MongoDB
+- **Web Development**: PHP, CodeIgniter, React, Next.js, Css/HTML/JS
+- **Mobile Development**: Flutter, React, Android Studio
+- **Game Development**: Unity (C#)
+- **Backend Systems**: Python, Node.js, Flask, MySQL, MongoDB
 
 I enjoy solving problems, whether it's building a business platform, automating workflows, or launching games.
 
@@ -24,7 +24,7 @@ And I am also currently working on building the future of experential AI with [*
 
 ---
 
-### 🧰 Tech Stack & Tools
+### Tech Stack & Tools
 <p align="left">
   <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="Flutter"/></a>
   <a href="https://unity.com/"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40" alt="Unity"/></a>
@@ -41,7 +41,7 @@ And I am also currently working on building the future of experential AI with [*
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/danielkrivchun/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
