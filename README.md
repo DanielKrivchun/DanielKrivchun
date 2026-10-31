@@ -15,8 +15,10 @@ I enjoy solving problems, whether it's building a business platform, automating 
 ---
 
 ## Current Projects
-Currently working on launching a Digital Marketing and Software agency named BeerSoft specializing on the beer and beverage industry. 
+Working on growing a Digital Marketing and Software agency named BeerSoft specializing on the beer and beverage industry. 
 https://www.beersoft.ca/
+
+Also working on a fun side project called Creature Collector to see how I can best use a full AI workflow to develop a mobile app where players can "catch" animals by taking a photo of them and adding them to their collection.
 
 ### Recent Projects
 Worked on [**KegChek**](https://kegchek.com/) - a web and mobile platform for managing keg inventory and logistics for breweries and restaurants. 
